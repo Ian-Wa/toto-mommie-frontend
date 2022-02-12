@@ -29,7 +29,7 @@ const routes: Routes = [
   {path: 'accessories', component:AccessoriesComponent},
   {path: 'cart', component:CartComponent},
   {path: 'discounts', component:DiscountsComponent},
-  {path: 'checkout', component:CheckoutComponent},
+  {path: 'cart/checkout', component:CheckoutComponent},
   
 
 ];
